@@ -1,0 +1,19 @@
+id: example_inference_extension
+name: Example Inference Extension
+description: This is an exmaple inference extension
+version: 1.0.0
+authors: Soufiane Oualil <https://github.com/sooualil>, Ahmed Bargady <https://github.com/AhmedCoolProjects>
+license: BSD
+
+requirements: requirements.txt
+
+log:
+  dir: ./logs
+  level: ERROR
+
+channels:
+  subscribe: [feature-channel]
+  publish: [inference-channel]
+
+models:
+  - url: https://www.virustotal.com/api/v3/ip_addresses
