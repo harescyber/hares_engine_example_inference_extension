@@ -18,6 +18,6 @@ After each response, the extension publish an object includes an `id`, `timestam
 
 - [Hares Engine Extensions API](https://github.com/harescyber/hares_engine/tree/as-package#extensions-api)
 - [Hares Engine Repo](https://github.com/harescyber/hares_engine/tree/as-package#readme)
-- [Hares Engine Templates](https://github.com/harescyber/hares_engine_template_example/tree/main)
+- [Hares Engine Templates](https://github.com/harescyber/hares_engine_template_example)
 - [Example Feature Extension](https://github.com/harescyber/hares_engine_example_feature_extension.git)
 - [Example Reporting Extension](https://github.com/harescyber/hares_engine_example_reporting_extension.git)
